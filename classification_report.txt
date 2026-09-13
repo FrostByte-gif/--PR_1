@@ -1,0 +1,36 @@
+                          precision    recall  f1-score   support
+
+                     ATR       0.83      0.82      0.83        67
+                  Airbus       0.68      0.83      0.75       433
+                 Antonov       1.00      0.55      0.71        33
+              Beechcraft       0.65      0.80      0.72        66
+                  Boeing       0.83      0.69      0.76       734
+    Bombardier Aerospace       0.89      0.52      0.65        33
+       British Aerospace       0.87      0.83      0.85       133
+                Canadair       0.74      0.85      0.79       133
+                  Cessna       0.85      0.70      0.77       134
+         Cirrus Aircraft       1.00      0.79      0.89        34
+       Dassault Aviation       0.91      0.88      0.89        67
+                 Dornier       0.93      0.39      0.55        33
+Douglas Aircraft Company       0.64      0.68      0.66       133
+                 Embraer       0.81      0.74      0.77       233
+             Eurofighter       0.72      0.97      0.82        34
+               Fairchild       0.75      0.62      0.68        34
+                  Fokker       0.66      0.69      0.68       100
+    Gulfstream Aerospace       0.94      0.90      0.92        67
+                Ilyushin       1.00      0.74      0.85        34
+    Lockheed Corporation       0.79      0.50      0.61        66
+         Lockheed Martin       0.81      0.67      0.73        33
+       McDonnell Douglas       0.64      0.65      0.65       233
+                 Panavia       0.94      0.88      0.91        33
+                   Piper       0.75      0.82      0.78        33
+                   Robin       0.86      0.88      0.87        34
+                    Saab       0.92      0.73      0.81        66
+             Supermarine       0.91      0.59      0.71        34
+                 Tupolev       0.76      0.84      0.79        67
+                Yakovlev       0.95      0.55      0.69        33
+            de Havilland       0.50      0.98      0.66       166
+
+                accuracy                           0.75      3333
+               macro avg       0.82      0.74      0.76      3333
+            weighted avg       0.77      0.75      0.75      3333
